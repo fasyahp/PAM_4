@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PAM_4</string>
+    <string-array name="nama">
+        <item>Fasya Hariyuda Pratama</item>
+        <item>Victor</item>
+        <item>Aji</item>
+        <item>Fabio</item>
+        <item>Roswand</item>
+        <item>Handoko</item>
+        <item>Faiz</item>
+        <item>Irkham</item>
+        <item>Daffa</item>
+    </string-array>
+    <string-array name="nim">
+        <item>235150409111002</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+    </string-array>
+</resources>
